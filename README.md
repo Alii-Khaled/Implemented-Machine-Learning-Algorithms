@@ -13,4 +13,6 @@ Such as:-
 
 5- Linear Classifier
 
-6- Basic Decision Tree
+6- Logistic Regression
+
+7- Basic Decision Tree

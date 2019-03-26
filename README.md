@@ -3,7 +3,7 @@ Here I have implemented some machine learning algorithms completely by myself to
 
 Such as:-
 
-1- Linear & Multiple Regressions
+1- Linear, Polynomial & Multiple Regressions
 
 2- Lasso Regression
 

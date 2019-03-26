@@ -1,5 +1,6 @@
 # Implemented-Machine-Learning-Algorithms
-Here I have implemented some machine learning algorithms completely by myself to get to deepen my understand to concepts behind them
+Here I have implemented some machine learning algorithms completely by myself to get to deepen my understand to concepts behind them and to improve myself in Python.
+
 Such as:-
 
 1- Linear Regression

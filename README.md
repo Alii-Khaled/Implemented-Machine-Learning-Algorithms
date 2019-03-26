@@ -11,8 +11,6 @@ Such as:-
 
 4- K-Nearest Neighbour
 
-5- Linear Classifier
+5- Linear Classifier (Logistic Regression)
 
-6- Logistic Regression
-
-7- Basic Decision Tree
+6- Basic Decision Tree
